@@ -1,0 +1,25 @@
+🎱 
+{
+r.text 
+"Absolutely no way." 
+"Possibly." 
+"No way in hell!!!!!!!!!" 
+"Ask again later." 
+"NOPERS" "Maybe." 
+"idk bro" 
+"sure" 
+"nah" 
+"NODDERS" 
+"bro that is cringe" 
+"not at all" 
+"Potentially." 
+"It is confirmed." 
+"Doubtful." 
+"sure bro" 
+"yeah man" 
+"Ask something else." 
+"Maybe tomorrow." 
+"Your lucky number is {f.random 99}." 
+"look at this instead marioDumper " 
+"widepeepoMASTURBATION77769420GANGSHITNOMOREFORTNITE19DOLLERFORTNITECARDbutHeSpins "
+}
