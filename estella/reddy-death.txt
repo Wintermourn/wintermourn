@@ -7,4 +7,7 @@
  "GAOGAO not again ({counter death_{a 1} ?}"
  "{counter death_{a 1} ?} times... plant well, it is what it is..."
  "mokyDespair {counter death_{a 1} ?}"
+ "SHUTTHEFUCKUP {counter death_{a 1} ?} times oomfie"
+ "BearOnFire nice job dummy, {counter death_{a 1} ?} deaths."
+ "TheVoices stop it!!!!!!!!!!!!!!!!! {counter death_{a 1} ?}!!!!!"
  }
