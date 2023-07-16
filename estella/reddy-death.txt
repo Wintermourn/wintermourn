@@ -1,0 +1,10 @@
+{counter death_{a 1} ++}
+{r.text
+ "SmugLary stop dying. {counter death_{a 1} ?} so far."
+ "SmugLary c'mon, it's not THAT hard. Reddy's already at {counter death_{a 1} ?} deaths."
+ "where were u when reddy die? I was at house eating dorito when phone ring. 'Reddy is kill... {counter death_{a 1} ?} times...' 'no...'"
+ "QueCojonesMiau {counter death_{a 1} ?}"
+ "GAOGAO not again ({counter death_{a 1} ?}"
+ "{counter death_{a 1} ?} times... plant well, it is what it is..."
+ "mokyDespair {counter death_{a 1} ?}"
+ }
