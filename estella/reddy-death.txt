@@ -5,7 +5,7 @@
  "where were u when reddy die? I was at house eating dorito when phone ring. 'Reddy is kill... {counter death_{a 1} ?} times...' 'no...' sobbing"
  "QueCojonesMiau {counter death_{a 1} ?}"
  "GAOGAO not again ({counter death_{a 1} ?})"
- "{counter death_{a 1} ?} times... plant well, it is what it is..."
+ " {counter death_{a 1} ?} times... reddy well, it is what it is..."
  "mokyDespair {counter death_{a 1} ?}"
  "SHUTTHEFUCKUP {counter death_{a 1} ?} times oomfie"
  "BearOnFire nice job dummy, {counter death_{a 1} ?} deaths."
