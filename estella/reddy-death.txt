@@ -12,4 +12,5 @@
  "TheVoices stop it!!!!!!!!!!!!!!!!! {counter death_{a 1} ?}!!!!!"
  "biggest skill issue SmugLary {counter death_{a 1} ?} times."
  "maybe it isn't a skill issue? {counter death_{a 1} ?} times HappiestMoriko"
+ "NOOOOOOOOOOOO catDespair {counter death_{a 1} ?}"
  }
