@@ -15,4 +15,5 @@
  "NOOOOOOOOOOOO catDespair {v.get deathcount}"
  "rest in piss, forever miss. #{v.get deathcount}"
  "{v.get deathcount} D:"
+ "{v.get deathcount} necoGriddy dori dori dori dori necoGriddy"
  }
