@@ -17,4 +17,5 @@
  "{v.get deathcount} D:"
  "{v.get deathcount} necoGriddy dori dori dori dori necoGriddy"
  "PERDEMO {v.get deathcount}"
+ "pataPISSED pataPISSED pataPISSED {v.get deathcount}"
  }
