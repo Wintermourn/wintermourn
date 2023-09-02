@@ -2,7 +2,7 @@
 {r.text
  "SmugLary stop dying. {v.get deathcount} so far."
  "SmugLary c'mon, it's not THAT hard. Reddy's already at {v.get deathcount} deaths."
- "where were u when reddy die? I was at house eating pizza roll when phone ring. 'Reddy is kill... {v.get deathcount} times...' 'no...' sobbing"
+ "where were u when reddy die? I was at house eating soup when phone ring. 'Reddy is kill... {v.get deathcount} times...' 'no...' sobbing"
  "QueCojonesMiau {v.get deathcount}"
  "GAOGAO not again ({v.get deathcount})"
  " {v.get deathcount} times... reddy well, it is what it is..."
