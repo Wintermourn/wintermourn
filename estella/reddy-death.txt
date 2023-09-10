@@ -18,4 +18,6 @@
  "{v.get deathcount} necoGriddy dori dori dori dori necoGriddy"
  "PERDEMO {v.get deathcount}"
  "pataPISSED pataPISSED pataPISSED {v.get deathcount}"
+ "have you thought of, like, not dying? SmugLary #{v.get deathcount}"
+ "just dont lose SmugLary can't be that hard right? #{v.get deathcount}"
  }
