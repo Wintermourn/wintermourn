@@ -21,5 +21,6 @@ r.text
 "Maybe tomorrow." 
 "Your lucky number is {f.random 99}." 
 "look at this instead marioDumper " 
+"nah dude not at all nope" 
 "widepeepoMASTURBATION77769420GANGSHITNOMOREFORTNITE19DOLLERFORTNITECARDbutHeSpins "
 }
