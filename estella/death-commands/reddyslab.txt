@@ -1,0 +1,23 @@
+{silence {counter death_{a 1} ++} {v.set deathcount {counter death_{a 1} ?}}}
+{r.text
+ "SmugLary stop dying. {v.get deathcount} so far."
+ "SmugLary c'mon, it's not THAT hard. Reddy's already at {v.get deathcount} deaths."
+ "where were u when reddy die? I was at house eating soup when phone ring. 'Reddy is kill... {v.get deathcount} times...' 'no...' sobbing"
+ "QueCojonesMiau {v.get deathcount}"
+ "GAOGAO not again ({v.get deathcount})"
+ " {v.get deathcount} times... reddy well, it is what it is..."
+ "mokyDespair {v.get deathcount}"
+ "SHUTTHEFUCKUP {v.get deathcount} times oomfie"
+ "BearOnFire nice job dummy, {v.get deathcount} deaths."
+ "TheVoices stop it!!!!!!!!!!!!!!!!! {v.get deathcount}!!!!!"
+ "biggest skill issue SmugLary {v.get deathcount} times."
+ "maybe it isn't a skill issue? {v.get deathcount} times HappiestMoriko"
+ "NOOOOOOOOOOOO catDespair {v.get deathcount}"
+ "rest in piss, forever miss. #{v.get deathcount}"
+ "{v.get deathcount} D:"
+ "{v.get deathcount} necoGriddy dori dori dori dori necoGriddy"
+ "PERDEMO {v.get deathcount}"
+ "pataPISSED pataPISSED pataPISSED {v.get deathcount}"
+ "have you thought of, like, not dying? SmugLary #{v.get deathcount}"
+ "just dont lose SmugLary can't be that hard right? #{v.get deathcount}"
+ }
