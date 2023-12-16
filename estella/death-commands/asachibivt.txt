@@ -1,0 +1,8 @@
+{silence {counter death_{a 1} ++} {v.set deathcount {counter death_{a 1} ?}}}
+{r.text
+  "WHY IS CHIBI SO DEAD sobbing {v.get deathcount}"
+  "not again GAOGAO {v.get deathcount}"
+  "SkillIssue #{v.get deathcount}"
+  "nilouVeryPog another death... {v.get deathcount} times now..."
+  "OhIDontFeelSoGood {v.get deathcount} deaths"
+}
