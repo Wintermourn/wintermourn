@@ -41,4 +41,7 @@ r.text
 "catErm"
 "uh uh!"
 "stop asking me things!!!!"
+"why dont you go '{a}' YOUR MOM"
+"uhhh idk what that is"
+":)"
 }
