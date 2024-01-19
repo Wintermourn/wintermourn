@@ -44,4 +44,5 @@ r.text
 "why dont you go '{a}' YOUR MOM"
 "uhhh idk what that is"
 ":)"
+"{a}"
 }
